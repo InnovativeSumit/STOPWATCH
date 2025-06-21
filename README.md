@@ -8,13 +8,13 @@ Here's a preview of the stopwatch:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/your-stopwatch-screenshot-url" alt="Stopwatch Screenshot" width="400" /></td>
+    <td><img src="https://github.com/user-attachments/assets/c739b560-4760-4096-aa81-613ff659b213" alt="Stopwatch Screenshot" width="400" /></td>
   </tr>
 </table>
 
 ## 🚀 Live Demo
 
-🔗 Try it live now: [STOPWATCH-PROJECT](https://innovativesumit.github.io/STOPWATCH-PROJECT)
+🔗 Try it live now: [STOPWATCH-PROJECT](https://innovativesumit.github.io/STOPWATCH/)
 
 ## 🧩 Key Features
 
